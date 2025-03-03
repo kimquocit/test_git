@@ -1,1 +1,1 @@
-test init 1
+test init 12
